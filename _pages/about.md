@@ -21,6 +21,7 @@ I am a PhD student in the Department of Statistics at the
 University of Wisconsin - Madison.  My main research focus is on statistical 
 and computational aspects of temporal data analysis and deep probabilistic
 models in different areas, including computer vision and particularly
-Brain Imaging. Check out my publications in the "Publications" tab. 
+Brain Imaging. 
+<!-- Check out my publications in the "Publications" tab.  -->
 
 I'm looking for intern/full-time positions for Summer 2021! If you are interested, please feel free to contact me.
