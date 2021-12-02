@@ -17,8 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Jurijs is a PhD student in the Department of Statistics at the
-University of Wisconsin - Madison.  His main research focus is on statistical 
+I am a PhD student in the Department of Statistics at the
+University of Wisconsin - Madison.  My main research focus is on statistical 
 and computational aspects of temporal data analysis and deep probabilistic
 models in different areas, including computer vision and particularly
-Brain Imaging.
+Brain Imaging. Check out my publications in the "Publications" tab. 
+
+I'm looking for intern/full-time positions for Summer 2021! If you are interested, please feel free to contact me.
