@@ -24,4 +24,4 @@ models in different areas, including computer vision and particularly
 Brain Imaging. 
 <!-- Check out my publications in the "Publications" tab.  -->
 
-I'm looking for intern/full-time positions for Summer 2021! If you are interested, please feel free to contact me.
+<!-- I'm looking for intern/full-time positions for Summer 2021! If you are interested, please feel free to contact me. -->
