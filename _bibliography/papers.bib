@@ -1,6 +1,71 @@
 ---
 ---
-@inproceedings{meode,
+@inproceedings{img2gif,
+    abbr={AI4CC, CVPR},
+    %teaser={/publications/me_ode2.pdf},
+    %teaser={/publications/uncertainty_with_rf/teaser.pdf},
+    teaser={/publications/wnode/teaser.gif},
+    title = {Image2Gif: Generating Continuous Realistic Animations with Warping NODEs},
+    author = {Nazarovs, Jurijs and Huang, Zhichun},
+    abstract = {   Generating smooth animations from a limited number of sequential observations has a number of applications in vision. For example, it can be used to increase number of frames per second, or generating a new trajectory only based on first and last frames, e.g. a motion of face emotions. Despite the discrete observed data (frames), the problem of generating a new trajectory is a continues problem. In addition, to be perceptually realistic, the domain of an image should not alter drastically through the trajectory of changes. In this paper, we propose a new framework, Warping Neural ODE, for generating a smooth animation (video frame interpolation) in a continuous manner, given two ("farther apart") frames, denoting the start and the end of the animation. The key feature of our framework is utilizing the continuous spatial transformation of the image based on the vector field, derived from a system of differential equations. This allows us to achieve the smoothness and the realism of an animation with infinitely small time steps between the frames. We show the application of our work in generating an animation given two frames, in different training settings, including Generative Adversarial Network (GAN) and with L-2 loss.},
+  year = {2022},
+  //confname={AI4CC, CVPR},
+  //acceptrate={25},
+  month = {April},
+  arxiv={2205.04519},
+  //pdf={https://openaccess.thecvf.com/content/CVPR2022/papers/Nazarovs_Understanding_Uncertainty_Maps_in_Vision_With_Statistical_Testing_CVPR_2022_paper.pdf},
+  //supp={adios-icml16-supp.pdf},
+  poster={/publications/wnode/poster.pdf},
+  //video={https://youtu.be/WJquexM8E38},
+  //code={https://github.com/JurijsNazarovs/panel_me_ode},
+
+}
+
+
+@inproceedings{uncertrf,
+    abbr={CVPR},
+    %teaser={/publications/me_ode2.pdf},
+    %teaser={/publications/uncertainty_with_rf/teaser.pdf},
+    teaser={/publications/uncertainty_with_rf/rf_1slide.pdf},
+    title = {Understanding Uncertainty Maps in Vision With Statistical Testing},
+    author = {Nazarovs, Jurijs and Huang, Zhichun and  Tasneeyapant, Songwong  and Chakraborty, Rudrasis and Singh, Vikas},
+    abstract = {   Quantitative descriptions of confidence intervals and uncertainties of the predictions of a model are needed in many applications in vision and machine learning. Mechanisms that enable this for deep neural network (DNN) models are slowly becoming available, and occasionally, being integrated within production systems. But the literature is sparse in terms of how to perform statistical tests with the uncertainties produced by these overparameterized models. For two models with a similar accuracy profile, is the former model's uncertainty behavior better in a statistically significant sense compared to the second model? For high resolution images, performing hypothesis tests to generate meaningful actionable information (say, at a user specified significance level 0.05) is difficult but needed in both mission critical settings and elsewhere. In this paper, specifically for uncertainties defined on images, we show how revisiting results from Random Field theory (RFT) when paired with DNN tools (to get around computational hurdles) leads to efficient frameworks that can provide a hypothesis test capabilities, not otherwise available, for uncertainty maps from models used in many vision tasks. We show via many different experiments the viability of this framework.},
+  year = {2022},
+  //confname={Thirty-seventh Conference on Uncertainty in Artificial IntelligenceCVPR},
+  acceptrate={25},
+  month = {March},
+  //arxiv={http://link.aps.org/doi/10.1103/PhysRev.47.777},
+  //pdf={/publications/meode/main.pdf},
+  pdf={https://openaccess.thecvf.com/content/CVPR2022/papers/Nazarovs_Understanding_Uncertainty_Maps_in_Vision_With_Statistical_Testing_CVPR_2022_paper.pdf},
+  //supp={adios-icml16-supp.pdf},
+  poster={/publications/uncertainty_with_rf/poster.pdf},
+  video={https://youtu.be/WJquexM8E38},
+  //code={https://github.com/JurijsNazarovs/panel_me_ode},
+
+}
+
+@inproceedings{radspslab,
+    abbr={arXiv},
+    teaser={/publications/radial_spikeslab/teaser.pdf},
+    title = {Radial Spike and Slab Bayesian Neural Networks for Sparse Data in Ransomware Attacks},
+    author = {Nazarovs, Jurijs and Stokes, Jack W. and Turcotte, Melissa and  Carroll, Justin and  Grady, Itai},
+    abstract = {   },
+  year = {2022},
+  //confname={AI4CC, CVPR},
+  //acceptrate={25},
+  month = {April},
+  arxiv={2205.14759},
+  //pdf={https://openaccess.thecvf.com/content/CVPR2022/papers/Nazarovs_Understanding_Uncertainty_Maps_in_Vision_With_Statistical_Testing_CVPR_2022_paper.pdf},
+  //supp={adios-icml16-supp.pdf},
+  //poster={/publications/wnode/poster.pdf},
+  //video={https://youtu.be/WJquexM8E38},
+  //code={https://github.com/JurijsNazarovs/panel_me_ode},
+
+}
+
+
+
+@inproceedings{ordinquadr,
     abbr={arXiv},
     %teaser={/publications/me_ode2.pdf},
     teaser={/publications/ordinal-quadruplet/ordin_quadr.gif},
