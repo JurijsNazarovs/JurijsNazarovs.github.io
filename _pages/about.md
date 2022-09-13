@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student in the Department of Statistics at the
 University of Wisconsin - Madison. 
-My main research focus: probabilistic models, generative models, temporal settings (trajectory prediction/generation),
+My main research focus: probabilistic models (including Bayesian Neural Networks), generative models, temporal settings (trajectory prediction/generation),
 computer vision, multimodals (image and text components).
 <!-- My main research focus is on statistical  -->
 <!-- and computational aspects of temporal data analysis and deep probabilistic -->
