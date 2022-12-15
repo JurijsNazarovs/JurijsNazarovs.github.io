@@ -1,0 +1,3 @@
+bundle exec jekyll serve -i -o
+
+To update website online, just add, commit and push. It does the rest automatically.
