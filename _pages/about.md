@@ -14,7 +14,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 I am a PhD student in the Department of Statistics at the
 University of Wisconsin - Madison. 
@@ -27,4 +27,4 @@ computer vision. Check my publications [here](/publications/) and research state
 
 <!-- Check out my publications in the "Publications" tab.  -->
 
-<!-- I'm looking for intern/full-time positions for Summer 2021! If you are interested, please feel free to contact me. -->
+I'm looking for a full-time position as MLE/Applied Scientist starting at 2023! If you are interested, feel free to contact me.
