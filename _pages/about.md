@@ -1,6 +1,6 @@
 ---
 layout: about
-title: #About
+title: about
 permalink: /
 description: #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -14,13 +14,12 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
-
 I am a PhD student in the Department of Statistics at the
 University of Wisconsin - Madison. 
-My main research focus: probabilistic models (including Bayesian Neural Networks), generative models, temporal settings (trajectory prediction/generation),
-computer vision, multimodals (image and text components). Check my publications [here](/publications/).
+My main research focus:  multimodals (image and text components), temporal processes (trajectory prediction/generation),  generative models, probabilistic models (including Bayesian Neural Networks) with application in
+computer vision. Check my publications [here](/publications/) and research statement [here](/assets/pdf/jurijs_research_statement_likecv.pdf).
 <!-- My main research focus is on statistical  -->
 <!-- and computational aspects of temporal data analysis and deep probabilistic -->
 <!-- models in different areas, including computer vision and particularly -->
