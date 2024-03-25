@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+{% if page.cv_pdf %}
+  <script>
+    // Redirect to the PDF URL immediately when the page loads
+    window.onload = function() {
+      window.location.href = "{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}";
+    }
+  </script>
+{% else %}
+
 {% unless site.data.resume %}
   <div class="post">
     <header class="post-header">
@@ -115,3 +124,4 @@ layout: default
     </article>
   </div>
 {% endunless %}
+{% endif %}
