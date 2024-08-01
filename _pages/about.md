@@ -33,5 +33,5 @@ social: true  # includes social icons at the bottom of the page
 <!-- Jurijs Nazarovs -->
 PhD, Applied Research Scientist in Computer Vision and Foundation Models.
 
-I am AI algorithm leader at [Ambient.ai](https://ambient.ai), with 8 years experience on cutting-edge research and application on Deep Learning and computer vision intelligence. I excel at identifying industry problems and providing solutions with latest AI technology. I actively contribute to the AI research community through innovative publications and blogs. Check out my [Google scholar profile](https://scholar.google.com/citations?user=7V-JmgIAAAAJ).
+I am AI algorithm leader at [Ambient.ai](https://ambient.ai), with 8 years experience on cutting-edge research and application on Deep Learning and computer vision intelligence. I excel at identifying industry problems and providing solutions with latest AI technology. I actively contribute to the AI research community through innovative publications and blogs. Check out my [Google scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=A5Y2BL0AAAAJ).
 <!-- publications [here](/publications/).  -->
